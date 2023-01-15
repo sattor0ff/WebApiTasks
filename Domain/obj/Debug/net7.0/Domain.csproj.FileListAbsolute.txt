@@ -1,0 +1,12 @@
+D:\CSharpPractices\WebApiTasks\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\CSharpPractices\WebApiTasks\Domain\bin\Debug\net7.0\Domain.dll
+D:\CSharpPractices\WebApiTasks\Domain\bin\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\Domain.dll
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\WebApiTasks\Domain\obj\Debug\net7.0\ref\Domain.dll
